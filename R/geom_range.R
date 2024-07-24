@@ -177,7 +177,7 @@ GeomRange <- ggplot2::ggproto("GeomRange", ggplot2::GeomTile,
     default_aes = aes(
         fill = "grey",
         colour = "black",
-        size = 0.25,
+        linewidth = 0.25,
         linetype = 1,
         alpha = NA,
         height = NA

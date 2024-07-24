@@ -161,7 +161,7 @@ GeomJunctionLabelRepel <- ggplot2::ggproto(
     default_aes = aes(
         colour = "black",
         fill = "white",
-        size = 3.88,
+        linewidth = 3.88,
         angle = 0,
         alpha = NA,
         family = "",
